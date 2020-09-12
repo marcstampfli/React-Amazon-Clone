@@ -63,7 +63,6 @@ function App() {
           </Route>
           <Route path="/">
             <Header />
-            {/* <SubHeader /> */}
             <Home />
           </Route>
         </Switch>
