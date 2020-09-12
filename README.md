@@ -2,7 +2,7 @@
 
 A clone of Amazon built with ReactJS and Firebase. 
 
-Features and funtionality listing of this project
+## Features and functionality listing
 
 - Create Account
 - Login / Logout
