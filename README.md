@@ -10,9 +10,3 @@ Features and funtionality listing of this project
 - Proceed to Checkout
 - Stripe payment integration
 - Previous Orders
-
-## Usage
-
-`npm install` Install package requirements
-
-`npm start` Runs the app in the development mode. Open http://localhost:3000 to view it in the browser.
