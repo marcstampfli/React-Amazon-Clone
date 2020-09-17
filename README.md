@@ -1,6 +1,6 @@
 # Description
 
-A minified clone of Amazon built with ReactJS and Firebase. 
+A minified clone of Amazon built with ReactJS and Firebase hosting and Stripe integration.
 
 ## Features list
 
